@@ -12,6 +12,7 @@ public class Listing_01_02_WelcomeWithThreeMessages_V1 {
         System.out.println("Programming is fun!");
         System.out.println("Fundamentals First");
         System.out.print("Problem Driven");
+
     }
 }
 
