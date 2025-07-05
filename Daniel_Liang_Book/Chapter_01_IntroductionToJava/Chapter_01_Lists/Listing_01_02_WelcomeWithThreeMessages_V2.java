@@ -13,7 +13,6 @@ public class Listing_01_02_WelcomeWithThreeMessages_V2 {
                 Programming is fun!
                 Fundamentals First
                 Problem Driven""");
-
     }
 }
 
