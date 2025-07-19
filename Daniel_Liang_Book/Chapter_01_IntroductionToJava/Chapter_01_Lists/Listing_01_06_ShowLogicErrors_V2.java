@@ -12,7 +12,7 @@ public class Listing_01_06_ShowLogicErrors_V2 {
                 Celsius 35 is Fahrenheit degree
                 %d
                 """, (9 / 5) * 35 + 32);
-        System.out.println("After correct the logic error....");
+        System.out.println(" After correct the logic error....");
         System.out.printf("""
                 Celsius 35 is Fahrenheit degree
                 %.1f""", (9.0 / 5) * 35 + 32);

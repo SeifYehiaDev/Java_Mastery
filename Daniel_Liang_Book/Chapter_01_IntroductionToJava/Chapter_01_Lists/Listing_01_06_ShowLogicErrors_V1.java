@@ -10,7 +10,7 @@ public class Listing_01_06_ShowLogicErrors_V1 {
     public static void main(String[] args) {
         System.out.println("Celsius 35 is Fahrenheit degree");
         System.out.println(9 / 5 * 35 + 32);
-        System.out.println("After correct the logic error....");
+        System.out.println(" After correct the logic error....");
         System.out.println("Celsius 35 is Fahrenheit degree");
         System.out.print(9.0 / 5 * 35 + 32);
     }
